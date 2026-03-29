@@ -39,17 +39,15 @@
 
 ---
 
-## 🚀 如何在本地运行
-
+🚀 如何在本地运行
 只需两步，即可在您的本地环境中启动黄金价格预测与实时监控智能看板：
 
-1.  **安装依赖**：
-    ```bash
-pip install -r requirements.txt
-    ```
+安装依赖：
 
-2.  **启动应用**：
-    ```bash
+Bash
+pip install -r requirements.txt
+启动应用：
+
+Bash
 streamlit run streamlit_app.py
-    ```
-    运行成功后，您的默认浏览器将自动打开应用界面。
+运行成功后，您的默认浏览器将自动打开应用界面。
