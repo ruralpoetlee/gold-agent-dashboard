@@ -1,0 +1,9 @@
+akshare
+yfinance
+pandas
+scikit-learn
+matplotlib
+requests
+streamlit
+plyer
+plotly
